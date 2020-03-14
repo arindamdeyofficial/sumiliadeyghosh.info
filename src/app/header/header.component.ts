@@ -11,5 +11,6 @@ export class HeaderComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  mailSymbolPath = "assets/img/mail.png";
+  phoneSymbolPath = "assets/img/phone.png";
 }

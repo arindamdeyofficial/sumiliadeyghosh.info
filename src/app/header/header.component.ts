@@ -13,4 +13,6 @@ export class HeaderComponent implements OnInit {
   }
   mailSymbolPath = "assets/img/mail.png";
   phoneSymbolPath = "assets/img/phone.png";
+  profilePicPath = "assets/img/me.jpeg";
+  linkedinPath = "assets/img/linkedin.png";
 }

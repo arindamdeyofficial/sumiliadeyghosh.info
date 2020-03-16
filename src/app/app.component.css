@@ -2,13 +2,3 @@
     height: 10px;
     width: 20px;
 }
-.fadeinRight{
-    transform: translateX(50px);
-    transition-duration: 5s;
-}
-.fadeinLeft{
-    position:relative;animation:animatetop 4s;@keyframes fadeIn {
-        0% {opacity: 0;}
-        100% {opacity: 1;}
-     } 
-}

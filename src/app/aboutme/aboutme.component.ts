@@ -11,5 +11,5 @@ export class AboutmeComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  aboutmePicPath = "assets/img/about.png";
 }

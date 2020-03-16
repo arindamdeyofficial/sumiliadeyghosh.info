@@ -11,5 +11,10 @@ export class EducationComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  nttSymbolPath = "assets/img/ntt.png";
+  universitySymbolPath = "assets/img/rabindrabharati.png";
+  universityPicPath = "assets/img/university.png";
+  CollegeSymbolPath = "assets/img/calcuttauniversity.png";
+  CollegePicPath = "assets/img/college.png";
+  SchoolPicPath = "assets/img/school.png";
 }

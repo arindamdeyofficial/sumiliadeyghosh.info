@@ -11,5 +11,5 @@ export class CertificatesComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  certSymbolPath = "assets/img/cert.png";
 }

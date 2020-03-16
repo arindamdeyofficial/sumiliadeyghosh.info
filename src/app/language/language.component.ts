@@ -11,5 +11,8 @@ export class LanguageComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  langPicPath = "assets/img/lang.png";
+  engPicPath = "assets/img/eng.png";
+  bengPicPath = "assets/img/beng.png";
+  hindiPicPath = "assets/img/hindi.png";
 }

@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9feb7dba-41a2-4f2a-ad5f-08e226edf072/resourceGroups/sumiliadeyghoshinforesgroup/providers/Microsoft.Web/sites/sumiliadeyghoshinfo",
+    "appService.deploySubpath": ""
+}

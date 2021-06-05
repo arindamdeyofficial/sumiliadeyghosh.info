@@ -1,0 +1,14 @@
+.name{
+    font-family: initial;
+    color: chocolate;
+}
+.title{
+    font-family: initial;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+}

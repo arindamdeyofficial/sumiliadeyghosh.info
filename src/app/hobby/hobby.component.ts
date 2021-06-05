@@ -17,4 +17,5 @@ export class HobbyComponent implements OnInit {
   musicPicPath = "assets/img/music.png";
   kidsPicPath = "assets/img/kids.png";
   paintingPicPath = "assets/img/painting.png";
+  socialPicPath = "assets/img/social.png";
 }
